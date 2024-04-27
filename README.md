@@ -23,7 +23,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
