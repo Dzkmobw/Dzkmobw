@@ -41,8 +41,8 @@
 <h3> 🧮 &nbsp;Stats</h3>
 
 <a href="https://github.com/Dzkmobw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dzkmobw&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzkmobw&theme=buefy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dzkmobw&theme=buefy&show_icons=true" />
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzkmobw&theme=buefy&layout=compact" />
 </a>
 
 <br/>
