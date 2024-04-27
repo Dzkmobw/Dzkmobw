@@ -51,6 +51,3 @@
 <a href="https://www.linkedin.com/in/zhangxuanzhao/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zhang%20Xuan%20Zhao-grey?style=flat-square&logo=linkedin"></a>
 <a href=""><img alt="Email" src="https://img.shields.io/badge/Email-//-blue?style=flat-square&logo=gmail"></a>
 </p>
--->
-
-⭐️ From [Dzkmobw](https://github.com/Dzkmobw)
