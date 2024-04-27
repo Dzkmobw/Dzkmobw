@@ -32,9 +32,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Django](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=Adobe%20Premiere%20Pro)
+  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
 
 <br/>
 
