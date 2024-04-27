@@ -34,8 +34,11 @@
 - 🖥 &nbsp;
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=Adobe%20Premiere%20Pro)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-
 <br/>
+
+---
+
+<h3> 🧮 &nbsp;Stats</h3>
 
 <a href="https://github.com/Dzkmobw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dzkmobw&theme=buefy&show_icons=true" />
