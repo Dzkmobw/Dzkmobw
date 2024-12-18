@@ -4,8 +4,8 @@
 
 <h3> 🦦 &nbsp;Who am I</h3>
 
-- 🏫 I’m a sophomore student at Beijing University of Posts and Telecommunications(BUPT).
-- 📊 I’m currently working on data science & AI field.
+- 🏫 I'm a junior student at Beijing University of Posts and Telecommunications(BUPT).
+- 📊 I'm currently working on data science & AI field.
 - 💪🏼 My Short Goals: Looking for an MLE / AI PM internship.
 - ⚽ Football Team I Support: Dalian Yingbo F.C.💙💙💙
 
