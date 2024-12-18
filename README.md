@@ -6,8 +6,7 @@
 
 - 🏫 I’m a sophomore student at Beijing University of Posts and Telecommunications(BUPT).
 - 📊 I’m currently working on data science & AI field.
-- 🖥️ I'm also interested in full-stack web development and         ₿lockchain.
-- 💪🏼 My Short Goals: Looking for an SDE internship.
+- 💪🏼 My Short Goals: Looking for an MLE / AI PM internship.
 - ⚽ Football Team I Support: Dalian Yingbo F.C.💙💙💙
 
 ---
